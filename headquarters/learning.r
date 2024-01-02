@@ -23,3 +23,11 @@ print('--')
 print(sales[1:2,])
 
 print(sales[c(1, 3),])
+
+
+
+print('')
+
+
+print(match("Carlos", client))
+print(sales[match("Carlos", client), ])
